@@ -33,3 +33,5 @@ SELECT * FROM Users WHERE Age >= 18;
 ```
 
 > MySQL로 작업할 때 SQL을 항상 사용하고 있다. 관계형 데이터베이스(RDBMS)는 SQL을 사용한다. 각각의 RDBMS 마다 SQL 표준을 가지고 있으며 문법상 약간 다를 수 있지만 대부분 굉장히 유사하다. SQL을 공부하였다면 다른 RDBMS로의 전환은 크게 어렵지 않다. RDBMS의 유니크 함은 SQL언어 자체가 아니라 각자 제공하는 기능에 달려있다.
+
+[MAC에서 MySQL + Workbench 설치](https://velog.io/@kms9887/mysql-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-workbench)
